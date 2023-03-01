@@ -9,7 +9,7 @@
     "@ethersproject/hash": "^5.7.0",
     "@ethersproject/web": "^5.7.1",
     "@matterlabs/hardhat-zksync-deploy": "^0.6.2",
-    "@matterlabs/hardhat-zksync-solc": "^0.3.14",
+    "@matterlabs/hardhat-zksync-solc": "0.3.15-beta.1",
     "@matterlabs/hardhat-zksync-verify": "0.1.2-beta.1",
     "@nomiclabs/hardhat-etherscan": "^3.1.6",
     "@types/node": "^18.14.2",
